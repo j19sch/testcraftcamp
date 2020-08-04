@@ -140,7 +140,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/tickets", "Reserve a ticket"),
-        ("/topics", "Possible topics for a session"),
+        ("/topics", "Possible session topics"),
         ("/event-format", "Event format"),
         ("/participants", "List of participants"),
         ("/code-of-conduct", "Code of conduct"),

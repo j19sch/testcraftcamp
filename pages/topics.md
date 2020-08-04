@@ -1,5 +1,5 @@
 <!--
-.. title: Possible topics for a session
+.. title: Possible session topics
 .. slug: topics
 .. date: 2020-08-04 07:24:47 UTC
 .. tags: 
