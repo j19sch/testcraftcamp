@@ -7,11 +7,12 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: true
 -->
 
 
-# Save the dates for Test Craft Camp - Virtual Edition
-# 18-19 September 2020
+<h1 class="align-center">Save the dates for Test Craft Camp<br>- Virtual Edition -<br>Friday 18 and Saturday 19 September 2020</h1>
+
 
 ---
 
@@ -57,7 +58,7 @@ Read our full Code of Conduct [here](/code-of-conduct).
 
 ## What can you expect?
 
-### Conferring & collaborating with people passionate about testing!
+Conferring & collaborating with people passionate about testing!
 
 ### Meet inspiring people
 Meet and hang-out with people passionate about software testing. Connect and expand your network. Meet other brilliant minds and get inspired.
@@ -77,7 +78,17 @@ We are going to have fun!
 
 ## TestCraftCamp team
 - Eddy Bruin
+	<a href="https://twitter.com/eddybruin" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+	<a href="https://www.linkedin.com/in/eddybruin/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 - Huib Schoots
+	<a href="https://twitter.com/huibschoots" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+	<a href="https://www.linkedin.com/in/huibschoots/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 - Joep Schuurkes
+	<a href="https://twitter.com/j19sch" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+	<a href="https://www.linkedin.com/in/joepschuurkes/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 - Cirilo Wortel
+	<a href="https://twitter.com/sietstweets" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+	<a href="https://www.linkedin.com/in/cirilowortel/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 - Elizabeth Zagroba
+	<a href="https://twitter.com/ezagroba" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+	<a href="https://www.linkedin.com/in/ezagroba/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>

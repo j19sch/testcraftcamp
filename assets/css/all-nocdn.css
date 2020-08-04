@@ -876,3 +876,20 @@ html[dir="rtl"] body {
     text-align: right;
 }
 
+.bg-dark {
+	background-color: #683799 !important;
+}
+
+a {
+	color: #0e7ed9;
+	/*color: #689937; https://colordesigner.io/ */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: rgba(255,255,255,.55);
+	font-size: 1.05rem;
+}
+
+#blog-title {
+	font-size: 1.6rem;
+}
