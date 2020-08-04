@@ -15,7 +15,7 @@ Test Craft Camp is organized as an unconference, a conference format that follow
 
 In this format, __attendees are also session contributors__. Anyone who wants to initiate a topic can claim a time slot in the conference schedule, and the agenda is done once the schedule starts, on the spot, as we will explain later.
 
-Once you are at the conference, the __organizers job is over__. They have provided a space and the tools for the event, after this, it’s __up to you as a participant to make it a great event__.
+Once you are at the conference, the __organizers' jobs are over__. They have provided a space and the tools for the event, after this, it’s __up to you as a participant to make it a great event__.
 
 We use the open space principles to organise our event. At the beginning of the conference we will go over the principles and rules to make sure everybody knows how the conference is run.
 
@@ -24,7 +24,7 @@ We use the open space principles to organise our event. At the beginning of the 
 
 Due to the uncertain situation while organising this years conference, we have decided to __not__ do a physical edition. Our crew members have in the past months experienced very successful editions of other virtual open space conferences and decided to follow this example. We expect to use [Zoom](https://zoom.us/) and [Miro](https://miro.com/) as our main conference tools.
 
-We use [Slack](http://slack.com/) for pre-, side- and post conference discussions. You will be invited to our Slack channel when you register for the conference.
+We use [Slack](http://slack.com/) for pre-, side- and post conference discussions. You will be invited to our Slack channel before the conference.
 
 
 ### Open Space Principles
@@ -34,13 +34,17 @@ There are some simple rules for participants.
 - __Whoever comes is the right people__  
 	As a facilitator, you should welcome anyone who has decided to join your session, and not be frustrated if you expected different people.  
 	As a participant, you should be ready to collaborate with anyone.
+
 - __Whenever it starts is the right time__  
 	As a facilitator, if you need some time to prepare, take it. Just think that people might get bored and go join another session. The best is to prepare anything in advance.  
 	As a participant, there is nothing wrong with joining a session in progress. But respect the people who have already started, and try to jump in quietly.
+
 - __Wherever it is, is the right place__  
 	You will be offered several spaces for your session. Choose the one that fits your needs as a facilitator or as a participant.
+
 - __Whatever happens is the only thing that could have__  
 	Be prepared to be surprised. Don’t be annoyed if you get feedback. Don’t be disappointed if it doesn’t work. Try again if need be.
+
 - __When it’s over, it’s over__  
 	As a facilitator, it’s up to you to mind your timebox. The organizers will not do it for you. Keep in mind that the participants of your session might want to go to another session after yours, and that the room might be reserved after. Feel free to continue in a different location with whoever is interested.
 
@@ -52,7 +56,8 @@ Butterflies hang out, looking relaxed, maybe drinking tea. They don’t appear t
 
 #### Bumble Bees
 Bumblebees fly from group to group cross-pollinating the discussions, bring new ideas, and fresh eyes to the table. They can also encourage mingling for those for whom the Law of Two Feet feels a bit rude.
-How do I prepare?
+
+### How do I prepare?
 
 If you want to know how to prepare for an unconference, you can read about that [here](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/).
 

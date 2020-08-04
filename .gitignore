@@ -6,3 +6,7 @@ output/
 cache/
 __pycache__
 .doit.db
+.doit.db.db
+
+## Mac OS X
+.DS_Store
