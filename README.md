@@ -1,5 +1,5 @@
 # testcraftcamp
-site for TestCraftCamp
+site for TestCraftCamp - https://testcraftcamp.nl / https://j19sch.github.io/testcraftcamp/
 
 ## setup
 - install Python 3.6+
