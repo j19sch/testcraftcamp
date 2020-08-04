@@ -1,2 +1,0 @@
-# testcraftcamp
-site for TestCraftCamp
