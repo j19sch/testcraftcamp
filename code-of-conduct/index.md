@@ -28,7 +28,7 @@ We believe in fostering a diversity of ideas, so we strive to create safe, inclu
 - Be kind, considerate, and respectful.
 - Learn about someone’s context before making assumptions.
 - Aim to resolve disagreements peacefully.
-- Consider your language and how it may negatively impact other people.
+- Consider your language and how it may negatively impact other people. [Use these creative alternatives to "guys"](https://heyguys.cc/).
 - Support and converse with those who are new to the community.
 
 We want to allow people to talk about software testing in a space free from harassment, discrimination, intimidation, or unwelcome attention of any sort. We will do our best to create this environment. Please come forward if you need our support in maintaining this vision.

@@ -39,13 +39,6 @@ If you wish to attend, please register [here](/tickets).
 Tickets for this virtual edition are free.
 
 
-### Cancellation
-
-If you have registered for this years conference, but are unable to attend, please let us know.
-
-We can free up your space for another participant.
-
-
 ### Code of Conduct: The Short Version
 
 We want Test Craft Camp to be a welcoming and safe space, where everyone can participate.
