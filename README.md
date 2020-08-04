@@ -3,7 +3,7 @@ site for TestCraftCamp - https://testcraftcamp.nl / https://j19sch.github.io/tes
 
 ## setup
 - install Python 3.6+
-- install Nikola[extras]
+- install Nikola[extras] v8.1.1
 
 ## running
 `nikola auto --browser` will build the site, open a browser, and update the site upon changes
