@@ -1,2 +1,8 @@
 # Python virtual env
 venv/
+
+# Nikola output
+output/
+cache/
+__pycache__
+.doit.db
