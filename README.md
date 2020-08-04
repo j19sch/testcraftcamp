@@ -7,3 +7,6 @@ site for TestCraftCamp
 
 ## running
 `nikola --auto browser` will build the site, open a browser, and update the site upon changes
+
+## deploying
+`nikola github_deploy` will build from what's committed and pushed to `src` and push it to `master`
