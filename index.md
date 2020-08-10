@@ -10,9 +10,14 @@
 .. hidetitle: true
 -->
 
-
 <h1 class="align-center">Save the dates for Test Craft Camp<br>- Virtual Edition -<br>Friday 18 and Saturday 19 September 2020</h1>
 
+---
+
+<div style="display:flex; justify-content:space-between; align-items:center;">
+	<img style="width:40%;height:40%;flex:0 1 auto" src="/assets/images/tcc2020-banner.png"/>
+	<img style="width:55%;height:55%;flex:0 1 auto" src="/assets/images/2019-group-photo.JPG"/>
+</div>
 
 ---
 
