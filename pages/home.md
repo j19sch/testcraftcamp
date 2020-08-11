@@ -10,7 +10,7 @@
 .. hidetitle: true
 -->
 
-<h1 class="align-center">Save the dates for Test Craft Camp<br>- Virtual Edition -<br>Friday 18 and Saturday 19 September 2020</h1>
+<h1 class="align-center">Save the dates for TestCraftCamp<br>- Virtual Edition -<br>Friday 18 and Saturday 19 September 2020</h1>
 
 ---
 
@@ -21,8 +21,8 @@
 
 ---
 
-## What is Test Craft Camp?
-Test Craft Camp is an unconference. It's a participant-driven meeting for and by people with an interest in software testing. The organizers provide a basic structure; the rest is up to all of us, the participants.
+## What is TestCraftCamp?
+TestCraftCamp is an unconference. It's a participant-driven meeting for and by people with an interest in software testing. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
 
 ### When is it?
@@ -46,9 +46,9 @@ Tickets for this virtual edition are free.
 
 ### Code of Conduct: The Short Version
 
-We want Test Craft Camp to be a welcoming and safe space, where everyone can participate.
+We want TestCraftCamp to be a welcoming and safe space, where everyone can participate.
 
-The Short Version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The Test Craft Camp organizers will support you.
+The Short Version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The TestCraftCamp organizers will support you.
 
 Read our full Code of Conduct [here](/code-of-conduct).
 
@@ -76,7 +76,7 @@ We are going to have fun!
 
 ## TestCraftCamp team
 
-<div style="display:flex; justify-content:center; flex-wrap:wrap">
+<div style="display:flex; justify-content:center; flex-wrap:wrap;">
 	<div style="width:250px; margin:20px;">
 		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/eddy.jpeg"/>
 		<p class="text-center">Eddy Bruin
