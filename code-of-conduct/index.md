@@ -11,12 +11,12 @@
 
 ## Short version
 
-Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The Test Craft Camp organizers will support you.
+Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The TestCraftCamp organizers will support you.
 
 
 ## Long version
 
-This code of conduct applies to the organizers and community attending Test Craft Camp event and conversing in our Slack channel.
+This code of conduct applies to the organizers and community attending TestCraftCamp event and conversing in our Slack channel.
 
 We believe in fostering a diversity of ideas, so we strive to create safe, inclusive, supportive places for everyone. This is regardless of gender, sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion, physical appearance, politics, ideology, software preferences, level of experience, or other similar characteristics.
 

@@ -22,7 +22,6 @@
 1. Okan Cobanoglu
 1. Rob van Steenbergen
 1. Jochem Gross
-1. Henri Budde
 1. Anca Juravle
 1. Klaas Toonen
 1. Bart Knaack
@@ -32,6 +31,7 @@
 1. Maaret Pyhäjärvi
 1. Jasmine Vyas
 1. Natasha Whitter
+1. Megha Mahant
 1. … you?
 
 

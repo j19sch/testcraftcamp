@@ -10,7 +10,7 @@
 -->
 
 
-Since it’s called “Test Craft Camp” we do expect topics to be related to the field of testing. However, a lot of topics are related to testing:
+Since it’s called “TestCraftCamp” we do expect topics to be related to the field of testing. However, a lot of topics are related to testing:
 
 - test approach and strategy
 - test techniques
