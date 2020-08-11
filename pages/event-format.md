@@ -11,7 +11,7 @@
 
 ![open space marketplace](/assets/images/event-format.jpeg)
 
-Test Craft Camp is organized as an unconference, a conference format that follows the [Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology#Guiding_principles_and_one_law) The idea of an unconference is to learn from and share with each other. It’s a way to build a conference around those meaningful interactions you have during the breaks at a normal conference.
+TestCraftCamp is organized as an unconference, a conference format that follows the [Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology#Guiding_principles_and_one_law) The idea of an unconference is to learn from and share with each other. It’s a way to build a conference around those meaningful interactions you have during the breaks at a normal conference.
 
 In this format, __attendees are also session contributors__. Anyone who wants to initiate a topic can claim a time slot in the conference schedule, and the agenda is done once the schedule starts, on the spot, as we will explain later.
 
