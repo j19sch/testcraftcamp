@@ -78,36 +78,36 @@ We are going to have fun!
 
 <div style="display:flex; justify-content:center; flex-wrap:wrap">
 	<div style="width:250px; margin:20px;">
-		<img style="border-radius:50%; width:75%;display:block; margin-left:auto; margin-right:auto;" src="/assets/images/eddy.jpeg"/>
-		<p style="text-align:center;">Eddy Bruin
+		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/eddy.jpeg"/>
+		<p class="text-center">Eddy Bruin
 			<a href="https://twitter.com/eddybruin" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/eddybruin/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 		</p>	
 	</div>
 	<div style="width:250px; margin:20px;">
-		<img style="border-radius:50%; width:75%;display:block; margin-left:auto; margin-right:auto;" src="/assets/images/huib5-300x298.jpg"/>
-		<p style="text-align:center;">Huib Schoots
+		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/huib5-300x298.jpg"/>
+		<p class="text-center">Huib Schoots
 			<a href="https://twitter.com/huibschoots" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/huibschoots/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
-		<img style="border-radius:50%; width:75%;display:block; margin-left:auto; margin-right:auto;" src="/assets/images/joep-300x300.jpeg"/>
-		<p style="text-align:center;">Joep Schuurkes
+		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/joep-300x300.jpeg"/>
+		<p class="text-center">Joep Schuurkes
 			<a href="https://twitter.com/j19sch" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/joepschuurkes/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
-		<img style="border-radius:50%; width:75%;display:block; margin-left:auto; margin-right:auto;" src="/assets/images/cirilo-300x300.jpeg"/>
-		<p style="text-align:center;">Cirilo Wortel
+		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/cirilo-300x300.jpeg"/>
+		<p class="text-center">Cirilo Wortel
 			<a href="https://twitter.com/sietstweets" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/cirilowortel/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
-		<img style="border-radius:50%; width:75%;display:block; margin-left:auto; margin-right:auto;" src="/assets/images/elizabeth-300x300.jpg"/>
-		<p style="text-align:center;">Elizabeth Zagroba
+		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/elizabeth-300x300.jpg"/>
+		<p class="text-center">Elizabeth Zagroba
 			<a href="https://twitter.com/ezagroba" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/ezagroba/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 		</p>
