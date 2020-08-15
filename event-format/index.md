@@ -64,6 +64,8 @@ If you want to know how to prepare for an unconference, you can read about that 
 
 ## Schedule
 
+All times are in CEST, i.e. UTC+2.
+
 ### Friday
 
 - 19:00 – 21:00  
