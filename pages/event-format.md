@@ -75,20 +75,75 @@ All times are in CEST, i.e. UTC+2.
 
 ### Saturday
 
-- 09:00 – Walk in & Shared Breakfast
-- 09:15 – Marketplace – Determining our morning sessions
-- 10:00 – Interactive sessions – Round 1
-- 10:45 – Break
-- 11:00 – Interactive sessions – Round 2
-- 11:45 – Break
-- 12:00 – Interactive sessions – Round 3
-- 12:45 – LUNCH
-- 13:30 – Marketplace – Determining our afternoon sessions
-- 14:00 – Interactive sessions – Round 4
-- 14:45 – Break
-- 15:00 – Interactive sessions – Round 5
-- 15:45 – Break
-- 16:00 – Interactive sessions – Round 6
-- 16:45 – Retrospective & Closing
+<table class="table table-sm">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Start Time</th>
+      <th scope="col">Activity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:00</td>
+      <td>Walk in & Shared Breakfast</td>
+    </tr>
+    <tr>
+      <td>09:15</td>
+      <td>Marketplace – Determining our morning sessions</td>
+    </tr>
+    <tr>
+      <td>10:00</td>
+      <td>Interactive sessions – Round 1</td>
+    </tr>
+    <tr>
+      <td>10:45</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td>11:00</td>
+      <td>Interactive sessions – Round 2</td>
+    </tr>
+    <tr>
+      <td>11:45</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td>12:00</td>
+      <td>Interactive sessions – Round 3</td>
+    </tr>
+    <tr>
+      <td>12:45</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>13:30</td>
+      <td>Marketplace – Determining our afternoon sessions</td>
+    </tr>
+    <tr>
+      <td>14:00</td>
+      <td>Interactive sessions – Round 4</td>
+    </tr>
+    <tr>
+      <td>14:45</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td>15:00</td>
+      <td>Interactive sessions – Round 5</td>
+    </tr>
+    <tr>
+      <td>15:45</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td>Interactive sessions – Round 6</td>
+    </tr>
+    <tr>
+      <td>16:45</td>
+      <td>Retrospective & Closing</td>
+    </tr>
+  </tbody>
+</table>
 
 If you have a longer session, you can claim two sessions.
