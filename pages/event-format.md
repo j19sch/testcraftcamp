@@ -75,7 +75,7 @@ All times are in CEST, i.e. UTC+2.
 
 ### Saturday
 
-<table class="table table-sm">
+<table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
     <tr>
       <th scope="col">Start Time</th>
