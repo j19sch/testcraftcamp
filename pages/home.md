@@ -27,9 +27,7 @@ TestCraftCamp is an unconference. It's a participant-driven meeting for and by p
 
 ### When is it?
 
-Friday evening 18 September 2020 (introduction and fun)
-&
-Saturday 19 September 2020 (unconference)
+Friday evening 18 September 2020 (introduction and fun) & Saturday 19 September 2020 (unconference). You can find the schedule [here](/event-format/#schedule-saturday).
 
 
 ### Virtual you say?

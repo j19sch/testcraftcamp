@@ -68,12 +68,27 @@ All times are in CEST, i.e. UTC+2.
 
 ### Friday
 
-- 19:00 – 21:00  
-	Warm-ups & getting to know each other  
-	Conference instructions & getting to know the tools  
-	Fun, discussions and drinks
+<table class="table table-sm" style="max-width:600px">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Time</th>
+      <th scope="col">Activity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+		<td>19:00 – 21:00</td>
+		<td>
+	      	Warm-ups & getting to know each other<br/>
+			Conference instructions & getting to know the tools<br/>
+			Fun, discussions and drinks<br/>
+		</td>
+    </tr>
+  </tbody>
+</table>
 
-### Saturday
+
+### <a name="schedule-saturday"></a>Saturday
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -87,11 +102,11 @@ All times are in CEST, i.e. UTC+2.
       <td>09:00</td>
       <td>Walk in & Shared Breakfast</td>
     </tr>
-    <tr>
+    <tr class="table-info">
       <td>09:15</td>
       <td>Marketplace – Determining our morning sessions</td>
     </tr>
-    <tr>
+    <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>10:00</td>
       <td>Interactive sessions – Round 1</td>
     </tr>
@@ -99,7 +114,7 @@ All times are in CEST, i.e. UTC+2.
       <td>10:45</td>
       <td>Break</td>
     </tr>
-    <tr>
+    <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>11:00</td>
       <td>Interactive sessions – Round 2</td>
     </tr>
@@ -107,7 +122,7 @@ All times are in CEST, i.e. UTC+2.
       <td>11:45</td>
       <td>Break</td>
     </tr>
-    <tr>
+    <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>12:00</td>
       <td>Interactive sessions – Round 3</td>
     </tr>
@@ -115,11 +130,11 @@ All times are in CEST, i.e. UTC+2.
       <td>12:45</td>
       <td>Lunch</td>
     </tr>
-    <tr>
+    <tr class="table-info">
       <td>13:30</td>
       <td>Marketplace – Determining our afternoon sessions</td>
     </tr>
-    <tr>
+    <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>14:00</td>
       <td>Interactive sessions – Round 4</td>
     </tr>
@@ -127,7 +142,7 @@ All times are in CEST, i.e. UTC+2.
       <td>14:45</td>
       <td>Break</td>
     </tr>
-    <tr>
+    <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>15:00</td>
       <td>Interactive sessions – Round 5</td>
     </tr>
@@ -135,15 +150,15 @@ All times are in CEST, i.e. UTC+2.
       <td>15:45</td>
       <td>Break</td>
     </tr>
-    <tr>
+    <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>16:00</td>
       <td>Interactive sessions – Round 6</td>
     </tr>
-    <tr>
+    <tr class="table-info">
       <td>16:45</td>
       <td>Retrospective & Closing</td>
     </tr>
   </tbody>
 </table>
 
-If you have a longer session, you can claim two sessions.
+If you have a longer session, you can claim two slots during the marketplace.
