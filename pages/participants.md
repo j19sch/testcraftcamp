@@ -38,6 +38,8 @@
 1. Irja Straus
 1. Dheeraj Kumar Aggarwal
 1. Ide Koops
+1. Claudia Meijer
+1. Tanja Tacker
 1. … you?
 
 
