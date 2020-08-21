@@ -71,18 +71,34 @@ All times are in CEST, i.e. UTC+2.
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
     <tr>
-      <th scope="col">Time</th>
+      <th scope="col">Start Time</th>
       <th scope="col">Activity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-		<td>19:00 – 21:00</td>
-		<td>
-	      	Warm-ups & getting to know each other<br/>
-			Conference instructions & getting to know the tools<br/>
-			Fun, discussions and drinks<br/>
-		</td>
+  		<td>19:00</td>
+  		<td>Warm-ups & getting to know each other</td>
+    </tr>
+    <tr class="table-info">
+      <td>19:30</td>
+      <td>Conference instructions</td>
+    </tr>
+    <tr>
+      <td>19:50</td>
+      <td>Break</td>
+    </tr>
+    <tr class="table-info">
+      <td>20:00</td>
+      <td>Track 1: Tools for session facilitators</td>
+    </tr>
+    <tr style="background-color:rgb(112, 48, 160, 0.40);">
+      <td>20:00</td>
+      <td>Track 2: Lean coffee</td>
+    </tr>
+    <tr>
+      <td>20:00</td>
+      <td>Track 3: Fun starts</td>
     </tr>
   </tbody>
 </table>
