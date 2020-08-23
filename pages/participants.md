@@ -41,6 +41,8 @@
 1. Claudia Meijer
 1. Tanja Tacker
 1. Pascal Dufour
+1. Imma Six
+1. Matthias Berg
 1. … you?
 
 
