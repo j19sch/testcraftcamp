@@ -15,7 +15,7 @@
 ---
 
 <div style="display:flex; justify-content:space-between; align-items:center;">
-	<img style="width:40%;height:40%;flex:0 1 auto" src="/assets/images/tcc2020-banner.png"/>
+	<img style="width:40%;height:40%;flex:0 1 auto" src="/assets/images/tcc-banner.png"/>
 	<img style="width:55%;height:55%;flex:0 1 auto" src="/assets/images/2019-group-photo-small.jpg"/>
 </div>
 
