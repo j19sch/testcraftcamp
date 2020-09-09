@@ -51,6 +51,8 @@
 1. Hans Andringa
 1. Andriy Migira
 1. Marcos Vinícius
+1. Dawie Greyling
+1. Rakesh Kumar
 1. … you?
 
 
