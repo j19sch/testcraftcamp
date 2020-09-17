@@ -66,7 +66,7 @@ If you want to know how to prepare for an unconference, you can read about that 
 
 All times are in CEST, i.e. UTC+2.
 
-### Friday
+### Friday 18 September
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -104,7 +104,7 @@ All times are in CEST, i.e. UTC+2.
 </table>
 
 
-### <a name="schedule-saturday"></a>Saturday
+### <a name="schedule-saturday"></a>Saturday 19 September
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -120,59 +120,67 @@ All times are in CEST, i.e. UTC+2.
     </tr>
     <tr class="table-info">
       <td>09:15</td>
+      <td>Welcome & Getting to know each other</td>
+    </tr>
+    <tr class="table-info">
+      <td>09:30</td>
+      <td>Open Space Intro</td>
+    </tr>
+    <tr class="table-info">
+      <td>09:45</td>
       <td>Marketplace – Determining our morning sessions</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>10:00</td>
+      <td>10:30</td>
       <td>Interactive sessions – Round 1</td>
     </tr>
     <tr>
-      <td>10:45</td>
+      <td>11:15</td>
       <td>Break</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>11:00</td>
+      <td>11:30</td>
       <td>Interactive sessions – Round 2</td>
     </tr>
     <tr>
-      <td>11:45</td>
-      <td>Break</td>
-    </tr>
-    <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>12:00</td>
-      <td>Interactive sessions – Round 3</td>
-    </tr>
-    <tr>
-      <td>12:45</td>
+      <td>12:15</td>
       <td>Lunch</td>
     </tr>
     <tr class="table-info">
-      <td>13:30</td>
+      <td>13:00</td>
       <td>Marketplace – Determining our afternoon sessions</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>14:00</td>
+      <td>13:30</td>
+      <td>Interactive sessions – Round 3</td>
+    </tr>
+    <tr>
+      <td>14:15</td>
+      <td>Break</td>
+    </tr>
+    <tr style="background-color:rgb(112, 48, 160, 0.40);">
+      <td>14:30</td>
       <td>Interactive sessions – Round 4</td>
     </tr>
     <tr>
-      <td>14:45</td>
+      <td>15:15</td>
       <td>Break</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>15:00</td>
+      <td>15:30</td>
       <td>Interactive sessions – Round 5</td>
     </tr>
     <tr>
-      <td>15:45</td>
+      <td>16:15</td>
       <td>Break</td>
     </tr>
-    <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>16:00</td>
-      <td>Interactive sessions – Round 6</td>
-    </tr>
     <tr class="table-info">
-      <td>16:45</td>
+      <td>16:30</td>
       <td>Retrospective & Closing</td>
+    </tr>
+    <tr>
+      <td>17:00</td>
+      <td>Virtual drinks & games</td>
     </tr>
   </tbody>
 </table>
