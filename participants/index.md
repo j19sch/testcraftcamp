@@ -29,7 +29,6 @@
 1. Sanne Marije Visser
 1. Cenk Kucukiravul
 1. Maaret Pyhäjärvi
-1. Jasmine Vyas
 1. Natasha Whitter
 1. Megha Mahant
 1. Markus Tacker
@@ -37,7 +36,6 @@
 1. Myron Angelo Dizon
 1. Irja Straus
 1. Dheeraj Kumar Aggarwal
-1. Ide Koops
 1. Claudia Meijer
 1. Tanja Tacker
 1. Mahesh
@@ -59,6 +57,7 @@
 1. Erwin Gerritse
 1. Irina Galchenko
 1. Miroslava Nikolova
+1. Andrea Nocco
 1. … you?
 
 
