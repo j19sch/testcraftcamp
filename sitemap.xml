@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://testcraftcamp.nl/</loc>
-  <lastmod>2020-09-06T10:29:00Z</lastmod>
+  <lastmod>2020-09-17T08:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://testcraftcamp.nl/archive.html</loc>
@@ -32,6 +32,10 @@
  <url>
   <loc>https://testcraftcamp.nl/participants/</loc>
   <lastmod>2020-08-04T16:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://testcraftcamp.nl/temp/</loc>
+  <lastmod>2020-09-17T08:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://testcraftcamp.nl/tickets/</loc>
