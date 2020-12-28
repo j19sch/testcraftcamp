@@ -36,6 +36,6 @@ We want to allow people to talk about software testing in a space free from hara
 
 ### Do You Need Support?
 
-Contact Huib, Joep, Eddy, Cirilo, or Elizabeth in person or privately on Slack to ask for support.
+Contact Huib, Joep, Cirilo, or Elizabeth in person or privately on Slack to ask for support.
 
 If we determine that a participant’s behaviour does not align with this code of conduct, we may take any action we deem appropriate. This may include expulsion and exclusion from the event or Slack without warning or a refund. 

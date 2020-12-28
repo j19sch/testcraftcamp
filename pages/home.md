@@ -10,7 +10,7 @@
 .. hidetitle: true
 -->
 
-<h1 class="align-center">Save the dates for TestCraftCamp<br>- Virtual Edition -<br>Friday 18 and Saturday 19 September 2020</h1>
+<h1 class="align-center">Save the dates for TestCraftCamp<br>- Virtual Edition -<br>Monday 8 March (evening) and Saturday 13 March 2021</h1>
 
 ---
 
@@ -27,12 +27,12 @@ TestCraftCamp is an unconference. It's a participant-driven meeting for and by p
 
 ### When is it?
 
-Friday evening 18 September 2020 (introduction and fun) & Saturday 19 September 2020 (unconference). You can find the schedule [here](/event-format/#schedule-saturday).
+Monday evening 8 March 2021 (lean coffee, Miro orientation, social hangout) & Saturday 13 March 2021 (unconference). You can find the schedule [here](/event-format/#schedule-saturday).
 
 
 ### Virtual you say?
 
-Yes we chose to have a virtual edition this year. Read all about how it is organised [here](event-format).
+Our first virtual editiion in September 2020 was a success, so let's do it again! Read all about how it is organised [here](event-format).
 
 
 ### How can I get a ticket?
@@ -76,13 +76,6 @@ We are going to have fun!
 
 <div style="display:flex; justify-content:center; flex-wrap:wrap;">
 	<div style="width:250px; margin:20px;">
-		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/eddy.jpeg"/>
-		<p class="text-center">Eddy Bruin
-			<a href="https://twitter.com/eddybruin" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-			<a href="https://www.linkedin.com/in/eddybruin/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-		</p>	
-	</div>
-	<div style="width:250px; margin:20px;">
 		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/huib5-300x298.jpg"/>
 		<p class="text-center">Huib Schoots
 			<a href="https://twitter.com/huibschoots" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
@@ -108,6 +101,14 @@ We are going to have fun!
 		<p class="text-center">Elizabeth Zagroba
 			<a href="https://twitter.com/ezagroba" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/ezagroba/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+		</p>
+	</div>
+	<div style="width:250px; margin:20px;">
+		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/eddy.jpeg"/>
+		<p class="text-center">Eddy Bruin
+			<a href="https://twitter.com/eddybruin" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+			<a href="https://www.linkedin.com/in/eddybruin/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+			<br>(2018 and 2019 editions)
 		</p>
 	</div>
 </div>
