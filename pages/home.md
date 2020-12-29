@@ -80,6 +80,7 @@ We are going to have fun!
 		<p class="text-center">Huib Schoots
 			<a href="https://twitter.com/huibschoots" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/huibschoots/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+			<br>(editions 2018 - present)
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
@@ -87,6 +88,7 @@ We are going to have fun!
 		<p class="text-center">Joep Schuurkes
 			<a href="https://twitter.com/j19sch" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/joepschuurkes/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+			<br>(editions 2018 - present)
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
@@ -94,6 +96,7 @@ We are going to have fun!
 		<p class="text-center">Cirilo Wortel
 			<a href="https://twitter.com/sietstweets" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/cirilowortel/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+			<br>(editions 2018 - present)
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
@@ -101,6 +104,7 @@ We are going to have fun!
 		<p class="text-center">Elizabeth Zagroba
 			<a href="https://twitter.com/ezagroba" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/ezagroba/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+			<br>(editions 2018 - present)
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
@@ -108,7 +112,7 @@ We are going to have fun!
 		<p class="text-center">Eddy Bruin
 			<a href="https://twitter.com/eddybruin" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/eddybruin/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-			<br>(2018 and 2019 editions)
+			<br>(editions 2018 - 2019)
 		</p>
 	</div>
 </div>
