@@ -62,7 +62,7 @@ Bumblebees fly from group to group cross-pollinating the discussions, bring new 
 If you want to know how to prepare for an unconference, you can read about that [here](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/).
 
 
-## Schedule
+## Preliminary schedule
 
 All times are in Central European Time (CET), i.e. UTC+1.
 
