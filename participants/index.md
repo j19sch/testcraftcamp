@@ -9,6 +9,14 @@
 .. type: text
 -->
 
+## 2021
+1. Huib Schoots
+1. Cirilo Wortel
+1. Elizabeth Zagroba
+1. Joep Schuurkes
+1. … you?
+
+
 ## 2020
 1. Eddy Bruin
 1. Huib Schoots
@@ -62,7 +70,6 @@
 
 
 ## 2019
-
 1. Eddy Bruin
 1. Denny van Kleef
 1. Huib Schoots

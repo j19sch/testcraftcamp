@@ -62,11 +62,12 @@ Bumblebees fly from group to group cross-pollinating the discussions, bring new 
 If you want to know how to prepare for an unconference, you can read about that [here](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/).
 
 
-## Schedule
+## Preliminary schedule
 
-All times are in CEST, i.e. UTC+2.
+All times are in Central European Time (CET), i.e. UTC+1.
 
-### Friday 18 September
+
+### Monday 8 March
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -90,7 +91,7 @@ All times are in CEST, i.e. UTC+2.
     </tr>
     <tr class="table-info">
       <td>20:00</td>
-      <td>Track 1: Tools for session facilitators</td>
+      <td>Track 1: Miro orientation</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>20:00</td>
@@ -104,7 +105,7 @@ All times are in CEST, i.e. UTC+2.
 </table>
 
 
-### <a name="schedule-saturday"></a>Saturday 19 September
+### <a name="schedule-saturday"></a>Saturday 13 March
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
