@@ -11,7 +11,7 @@
 
 
 
-### Let us know you’re coming
+### Let us know if you’re coming
 
 You can reserve a ticket for TestCraftCamp today! We have decided to keep this virtual edition free of charge, but you do need to register in order to participate.
 
