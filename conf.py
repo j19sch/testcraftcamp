@@ -25,7 +25,7 @@ SITE_URL = "https://testcraftcamp.nl/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "testcraftcamp@gmail.com"
-BLOG_DESCRIPTION = "18-19 September 2020"  # (translatable)
+BLOG_DESCRIPTION = "13 March 2021"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -139,7 +139,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/tickets", "Reserve a ticket"),
+        ("/tickets", "Register"),
         ("/topics", "Possible session topics"),
         ("/event-format", "Event format"),
         ("/participants", "List of participants"),
