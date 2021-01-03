@@ -32,7 +32,7 @@ Monday evening 8 March 2021 (lean coffee, Miro orientation, social hangout) & Sa
 
 ### Virtual you say?
 
-Our first virtual editiion in September 2020 was a success, so let's do it again! Read all about how it is organised [here](event-format).
+Our first virtual edition in September 2020 was a success, so let's do it again! Read all about how it is organised [here](event-format).
 
 
 ### How can I get a ticket?
@@ -57,7 +57,7 @@ Read our full Code of Conduct [here](/code-of-conduct).
 Conferring & collaborating with people passionate about testing!
 
 ### Meet inspiring people
-Meet and hang-out with people passionate about software testing. Connect and expand your network. Meet other brilliant minds and get inspired.
+Meet and hang out with people passionate about software testing. Connect and expand your network. Meet other brilliant minds and get inspired.
 
 ### Join hands-on sessions & group discussions
 Get new ideas about testing and working in IT. Discuss and try out new techniques. Fill your testing backpack with ideas, activities and techniques you can try out in your teams back home.
