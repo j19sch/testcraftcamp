@@ -62,7 +62,7 @@ Bumblebees fly from group to group cross-pollinating the discussions, bring new 
 If you want to know how to prepare for an unconference, you can read about that [here](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference/).
 
 
-## Preliminary schedule
+## Schedule
 
 All times are in Central European Time (CET), i.e. UTC+1.
 
@@ -82,24 +82,24 @@ All times are in Central European Time (CET), i.e. UTC+1.
   		<td>Warm-ups & getting to know each other</td>
     </tr>
     <tr class="table-info">
-      <td>19:30</td>
+      <td>19:15</td>
       <td>Conference instructions</td>
     </tr>
     <tr>
-      <td>19:50</td>
+      <td>19:45</td>
       <td>Break</td>
-    </tr>
-    <tr class="table-info">
-      <td>20:00</td>
-      <td>Track 1: Miro orientation</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>20:00</td>
-      <td>Track 2: Lean coffee</td>
+      <td>Track 1: Lean coffee</td>
     </tr>
     <tr>
       <td>20:00</td>
-      <td>Track 3: Fun starts</td>
+      <td>Track 2: Fun starts</td>
+    </tr>
+    <tr>
+      <td>21:00</td>
+      <td>The fun continues</td>
     </tr>
   </tbody>
 </table>
@@ -116,15 +116,15 @@ All times are in Central European Time (CET), i.e. UTC+1.
   </thead>
   <tbody>
     <tr>
-      <td>09:00</td>
+      <td>08:30</td>
       <td>Walk in & Shared Breakfast</td>
     </tr>
     <tr class="table-info">
-      <td>09:15</td>
+      <td>09:00</td>
       <td>Welcome & Getting to know each other</td>
     </tr>
     <tr class="table-info">
-      <td>09:30</td>
+      <td>09:20</td>
       <td>Open Space Intro</td>
     </tr>
     <tr class="table-info">
