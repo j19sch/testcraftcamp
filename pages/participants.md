@@ -92,7 +92,6 @@
 1. Deepthi. K
 1. Sunaza
 1. Yiannis Psaronkolakis
-1. Joost Voskuil
 1. Amit Agarwal
 1. Julia
 1. Bart Knaack
@@ -103,6 +102,15 @@
 1. Nikita
 1. Gavin Clark
 1. Laura Roșu
+1. Kaan
+1. Can
+1. Nick Cary
+1. Patt
+1. Agnieszka
+1. Guino Henostroza
+1. Nitin
+1. Marialena Shiamma
+1. Anjana
 1. … you?
 
 
