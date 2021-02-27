@@ -121,15 +121,11 @@ All times are in Central European Time (CET), i.e. UTC+1.
     </tr>
     <tr class="table-info">
       <td>09:00</td>
-      <td>Welcome & Getting to know each other</td>
+      <td>Welcome & Instructions</td>
     </tr>
     <tr class="table-info">
-      <td>09:20</td>
-      <td>Open Space Intro</td>
-    </tr>
-    <tr class="table-info">
-      <td>09:45</td>
-      <td>Marketplace – Determining our morning sessions</td>
+      <td>09:30</td>
+      <td>Marketplace – Determining our sessions</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
       <td>10:30</td>
@@ -148,39 +144,39 @@ All times are in Central European Time (CET), i.e. UTC+1.
       <td>Lunch</td>
     </tr>
     <tr class="table-info">
-      <td>13:00</td>
-      <td>Marketplace – Determining our afternoon sessions</td>
+      <td>13:15</td>
+      <td>Marketplace – Determining our sessions</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>13:30</td>
+      <td>13:45</td>
       <td>Interactive sessions – Round 3</td>
     </tr>
     <tr>
-      <td>14:15</td>
+      <td>14:30</td>
       <td>Break</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>14:30</td>
+      <td>14:45</td>
       <td>Interactive sessions – Round 4</td>
     </tr>
     <tr>
-      <td>15:15</td>
+      <td>15:30</td>
       <td>Break</td>
     </tr>
     <tr style="background-color:rgb(112, 48, 160, 0.40);">
-      <td>15:30</td>
+      <td>15:45</td>
       <td>Interactive sessions – Round 5</td>
     </tr>
     <tr>
-      <td>16:15</td>
+      <td>16:30</td>
       <td>Break</td>
     </tr>
     <tr class="table-info">
-      <td>16:30</td>
+      <td>16:45</td>
       <td>Retrospective & Closing</td>
     </tr>
     <tr>
-      <td>17:00</td>
+      <td>17:15</td>
       <td>Virtual drinks & games</td>
     </tr>
   </tbody>
