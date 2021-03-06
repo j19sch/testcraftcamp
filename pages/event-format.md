@@ -67,7 +67,7 @@ If you want to know how to prepare for an unconference, you can read about that 
 All times are in Central European Time (CET), i.e. UTC+1.
 
 
-### Monday 8 March
+### <a name="schedule-monday"></a>Monday 8 March
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
