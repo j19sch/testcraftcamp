@@ -10,69 +10,20 @@
 .. hidetitle: true
 -->
 
-<h1 class="align-center">Save the dates for TestCraftCamp<br>- Virtual Edition -<br>Monday 8 March (evening) and Saturday 13 March 2021</h1>
+TestCraftCamp has evolved. Join us over at: 
+
+## [Friends of Good Software (FroGS Conf)](https://frogsconf.nl/)
 
 ---
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-	<img style="width:40%;height:40%;flex:0 1 auto" src="/assets/images/tcc-banner-march-2021.png"/>
-	<img style="width:55%;height:55%;flex:0 1 auto" src="/assets/images/2019-group-photo-small.jpg"/>
-</div>
+### TestCraftCamp Editions
+- September 2019
+- September 2020 (online)
+- March 2021 (online)
 
 ---
 
-## What is TestCraftCamp?
-TestCraftCamp is an unconference. It's a participant-driven meeting for and by people with an interest in software testing. The organizers provide a basic structure; the rest is up to all of us, the participants.
-
-
-### When is it?
-
-Monday evening 8 March 2021 (lean coffee, Miro orientation, social hangout) & Saturday 13 March 2021 (unconference). You can find the schedule [here](/event-format/#schedule-saturday).
-
-
-### Virtual you say?
-
-Our first virtual edition in September 2020 was a success, so let's do it again! Read all about how it is organised [here](event-format).
-
-
-### How can I get a ticket?
-
-If you wish to attend, please register [here](/tickets).
-
-Tickets for this virtual edition are free.
-
-
-### Code of Conduct: The Short Version
-
-We want TestCraftCamp to be a welcoming and safe space, where everyone can participate.
-
-The Short Version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The TestCraftCamp organizers will support you.
-
-Read our full Code of Conduct [here](/code-of-conduct).
-
----
-
-## What can you expect?
-
-Conferring & collaborating with people passionate about testing!
-
-### Meet inspiring people
-Meet and hang out with people passionate about software testing. Connect and expand your network. Meet other brilliant minds and get inspired.
-
-### Join hands-on sessions & group discussions
-Get new ideas about testing and working in IT. Discuss and try out new techniques. Fill your testing backpack with ideas, activities and techniques you can try out in your teams back home.
-
-### Facilitate or participate in workshops and conversations
-Discuss your problems or share your new ideas. Get feedback from other testers. Maybe you did some research you are enthusiastic about? Let other people know!
-
-### Get new Ideas, learn & experiment
-Learn new skills by collaborating, pairing or mobbing with others testers.
-
-We are going to have fun!
-
----
-
-## TestCraftCamp team
+### TestCraftCamp Team
 
 <div style="display:flex; justify-content:center; flex-wrap:wrap;">
 	<div style="width:250px; margin:20px;">
